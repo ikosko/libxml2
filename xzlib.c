@@ -6,6 +6,7 @@
  *
  * Anders F Bjorklund <afb@users.sourceforge.net>
  */
+
 #define IN_LIBXML
 #include "libxml.h"
 #ifdef LIBXML_LZMA_ENABLED
